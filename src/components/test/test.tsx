@@ -30,7 +30,7 @@ export function ArticleCard() {
       </Badge>
 
       <Text className={classes.title} fw={500} component="a" {...linkProps}>
-        Resident Evil Village review
+        Resident Evil Village review테스트중
       </Text>
 
       <Text fz="sm" c="dimmed" lineClamp={4}>
