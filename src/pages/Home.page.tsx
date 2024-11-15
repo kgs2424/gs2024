@@ -5,7 +5,7 @@ export function HomePage() {
   return (
     <>
       <Welcome />
-      <ColorSchemeToggle />테스트중
+      <ColorSchemeToggle />테스트중11
     </>
   );
 }
