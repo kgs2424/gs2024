@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "profileImage": "https://i.imgur.com/Cij5vdL.png",
+      "jobObjective": "프론트엔드",
+      "topic": "미래엔 디지털 교과서",
+      "summary": "잘하겠다1.",
+      "username": "사용자1"
+    },
+    {
+      "id": 2,
+      "profileImage": "https://i.imgur.com/Cij5vdL.png",
+      "jobObjective": "백엔드",
+      "topic": "미래엔 디지털 교과서2",
+      "summary": "잘하겠다2.",
+      "username": "사용자2"
+    },
+    {
+      "id": 3,
+      "profileImage": "https://i.imgur.com/Cij5vdL.png",
+      "jobObjective": "풀스택",
+      "topic": "미래엔 디지털 교과서3",
+      "summary": "잘하겠다3.",
+      "username": "사용자3"
+    }
+  ]
